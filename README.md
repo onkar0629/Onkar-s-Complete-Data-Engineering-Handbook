@@ -12,31 +12,6 @@ This repository is designed for:
 
 ---
 
-# 🎯 Objectives
-
-This repository serves as:
-
-* 📚 Learning Resource
-* 📝 Revision Notes
-* 🎤 Interview Preparation Guide
-* 🔧 Troubleshooting Handbook
-* 🏗 Real-World Scenario Library
-* 💼 Portfolio Project Showcase
-
-Unlike traditional notes repositories, this handbook focuses on:
-
-* Theory
-* Architecture
-* Commands
-* Practical Examples
-* Real-World Use Cases
-* Common Mistakes
-* Troubleshooting
-* Interview Questions
-* Projects
-
----
-
 # 🛣 Learning Roadmap
 
 ## Foundation
